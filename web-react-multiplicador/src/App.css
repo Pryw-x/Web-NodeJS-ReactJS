@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  background-color: rgb(221, 121, 21);
+}
+
+input{
+  width: 75px;
+  margin:15px;
+}
+
+h1{
+  color: rgb(44, 240, 247);
+}
+
+h2{
+  color:rgb(42, 224, 224);
+  font-size: 55px;
+}
+
+h3{
+  color:rgb(56, 242, 248);
+  font-style: italic;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+h4{
+  font-weight: bold;
+  color:rgb(48, 241, 241);
+}
+
+button{
+  color: rgb(240, 235, 230);
+  background-color: rgb(50, 233, 240);
+  border-color: rgb(36, 228, 235);
+  font-size: 20px;
+  width: 220px;
+  margin: 11px;
+}
